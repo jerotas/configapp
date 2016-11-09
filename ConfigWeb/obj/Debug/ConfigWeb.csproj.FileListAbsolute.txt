@@ -133,6 +133,6 @@ C:\Users\us47511\Desktop\Git\configapp\ConfigWeb\bin\Microsoft.Owin.Security.OAu
 C:\Users\us47511\Desktop\Git\configapp\ConfigWeb\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\us47511\Desktop\Git\configapp\ConfigWeb\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\us47511\Desktop\Git\configapp\ConfigWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\us47511\Desktop\Git\configapp\ConfigWeb\obj\Debug\ConfigWeb.csprojResolveAssemblyReference.cache
 C:\Users\us47511\Desktop\Git\configapp\ConfigWeb\obj\Debug\ConfigWeb.dll
 C:\Users\us47511\Desktop\Git\configapp\ConfigWeb\obj\Debug\ConfigWeb.pdb
+C:\Users\us47511\Desktop\Git\configapp\ConfigWeb\obj\Debug\ConfigWeb.csprojResolveAssemblyReference.cache

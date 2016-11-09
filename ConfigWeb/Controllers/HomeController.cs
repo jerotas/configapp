@@ -6,7 +6,8 @@ namespace ConfigWeb.Controllers {
     public class HomeController : Controller {
         public ActionResult Index() {
             var model = new HomeModel {
-                DatabaseName = ConfigurationManager.AppSettings["DatabaseName"]
+                DatabaseName = ConfigurationManager.AppSettings["DatabaseName"],
+                ReleaseMode = ConfigurationManager.AppSettings["ReleaseMode"]
             };
 
             return View(model);
